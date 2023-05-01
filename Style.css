@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century;
+
+}
+
+
+
+
+
+
+header{
+    background-image: linear-gradient(rgb(200, 0, 0),rgb(150, 0, 0),rgb(50, 0, 0));
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+    
+}
+.Team{
+
+    color: #000000;
+    font-size: large;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(25%,50%);
+
+
+}
+
+.tab1{
+    tab-size: 8;
+}
+
+
+
+.latest{
+    font-family: ;
+    background-color: #fff;
+    color: #000;
+    font-size: x-large;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(1%,100%)
+}
+
+.ThisYear{
+
+    font-family: ;
+    background-color: #fff;
+    color: #000;
+    font-size: x-large;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(1%,100%)
+
+}
+
+.About{
+
+    font-family: ;
+    background-color: #fff;
+    color: #000;
+    font-size: x-large;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(1%,100%)
+
+}
+
+.Contact{
+
+    font-family: ;
+    background-color: #fff;
+    color: #000;
+    font-size: x-large;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(1%,600%)
+
+}
+
+.frc{
+
+    font-family: ;
+    background-color: #ffffff;
+    border: #ffe600;
+    color: #000000;
+    font-size: x-large;
+    position: absolute;
+    top: 0;
+    left: 0%;
+    transform: translate(1%,50%);
+
+
+}
+
+.bg{
+
+    font-family: ;
+    background-color: #ffffff;
+    border: #000000;
+    color: #000000;
+    font-size: xx-large;
+    position: absolute;
+    top: 0;
+    left: 0%;
+    transform: translate(6%,80%);
+
+}
+
+
+.Robot1{
+   
+    position: absolute;
+
+	width: 150px;
+	height: auto;
+    transform: translate(50%,40%);
+}
+
+ul{
+	float:left;
+	list-style-type: none;
+	margin-top: 30px;
+	margin-right:60px ;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #ffe600;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.5s ease;
+
+}
+ul li a:hover{
+	background-color: #000000;
+	color: #ffee00;
+}
+
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+    
+
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+    background-color: #ffffff;
+}
+
+.title{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: #000000;
+	font-size: 85px;
+}
+
+.button{
+	position: absolute;
+	top: 38%;
+	left:47%;
+	transform: translate(-50%,-50%);
+}
+
+.btn{
+	border: 1px solid #fff;
+	padding: 5px 20px;
+	color: #fff;
+	transition: 0.6s ease;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
